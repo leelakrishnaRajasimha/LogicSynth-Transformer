@@ -1,0 +1,24 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor Settings
+.vscode/
+.idea/
+
+# Large Files & Data
+checkpoints/
+*.pth
+*.pt
+*.h5
+
+# Logs
+terminal_epoch_training.txt
+*.log
